@@ -188,6 +188,41 @@
     "price": 105,
     "category": "most viewed",
     "image": "https://via.placeholder.com/300x300"
+  },
+        {
+    "id": 28,
+    "name": "Product 28",
+    "category": "Bestseller",
+    "price": 99.99,
+    "image": "https://via.placeholder.com/300x300"
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "category": "Bestseller",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/300x300"
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "category": "Bestseller",
+    "price": 299.99,
+    "image": "https://via.placeholder.com/300x300"
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "category": "Bestseller",
+    "price": 399.99,
+    "image": "https://via.placeholder.com/300x300"
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "category": "Bestseller",
+    "price": 499.99,
+    "image": "https://via.placeholder.com/300x300"
   }
     ]
 }
