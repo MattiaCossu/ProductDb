@@ -17,7 +17,7 @@
   {
     "id": 3,
     "name": "Product 3",
-    "category": "Most Viewed",
+    "category": "bestseller",
     "price": 49.99,
     "image": "https://via.placeholder.com/300x300"
   },
