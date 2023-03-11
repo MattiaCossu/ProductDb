@@ -151,7 +151,7 @@
     "id": 22,
     "name": "Product 22",
     "price": 60,
-    "category": "featured",
+    "category": "bestserller",
     "image": "https://via.placeholder.com/300x300"
   },
   {
@@ -172,7 +172,7 @@
     "id": 25,
     "name": "Product 25",
     "price": 45,
-    "category": "featured",
+    "category": "bestseller",
     "image": "https://via.placeholder.com/300x300"
   },
   {
@@ -208,20 +208,6 @@
     "name": "Product 30",
     "category": "Bestseller",
     "price": 299.99,
-    "image": "https://via.placeholder.com/300x300"
-  },
-  {
-    "id": 31,
-    "name": "Product 31",
-    "category": "Bestseller",
-    "price": 399.99,
-    "image": "https://via.placeholder.com/300x300"
-  },
-  {
-    "id": 32,
-    "name": "Product 32",
-    "category": "Bestseller",
-    "price": 499.99,
     "image": "https://via.placeholder.com/300x300"
   }
     ]
